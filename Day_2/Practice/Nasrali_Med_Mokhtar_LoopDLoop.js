@@ -7,10 +7,10 @@
 
 var candies = 0
 
-for (var miles = 2 ; miles <= 6 ; miles = miles + 2) {
+for (var miles = 0 ; miles <= 6 ;  miles + 2) {
     
 
-        console.log("They Got",candies + 1,"Candy");
+        console.log("Miles ",miles,"Achieved They Got",candies + 1,"Candy");
     }
 
 // This will print they got 1 candy 3 times
