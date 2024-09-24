@@ -1,0 +1,57 @@
+Code Snippet 1: 
+    // console.log ('hello') will only print hello
+    // hello(); will call the function hello to print the console.log 
+    // console.log('Dojo'); will only print Dojo
+
+Code Snippet 2:
+    // console.log('hello'); will print hello
+    // return 15; will hold the value and we can use it later
+    // var result = hello(); will put a variable for hello to be called result
+    // console.log('result is', result); will print result is hello
+
+Code Snippet 3:
+    function numPlus(num) {
+        console.log('num is', num); //this will print num is the number in the function
+        return num+15; //this will hold num+15 to use it later
+    }
+    var result = numPlus(3); //result will hold numplus to be called later
+    console.log('result is', result); //this will print result is numplus (3)
+
+Code Snippet 4:
+    var num = 15; // this variable for num equal to 15
+    console.log(num); //this will print the num
+    function logAndReturn(num){ 
+    console.log(num);   //this will print the num
+    return num; //this will hold num to be used later
+    }
+    var result = logAndReturn(10); //result will be used to call for logabdReturn function
+    console.log(result); //this will print the result
+    console.log(num); //this will print the num
+
+Code Snippet 5: 
+
+num = 15
+num*2 = 30
+result 10
+console.log = 30
+
+Code Snippet 6 : 
+num = 3
+y = 3*2 = 6
+result = 8
+
+
+Code Snippet 7 : 
+num 1 = 2
+num 2 = 3
+
+
+Code Snippet 8 : 
+num 1 = 2
+
+
+Code Snippet 9 :
+result = (5,8)
+
+Code Snippet 10 :
+
