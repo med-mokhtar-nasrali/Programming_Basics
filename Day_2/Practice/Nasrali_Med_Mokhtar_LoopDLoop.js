@@ -10,12 +10,27 @@ var candies = 0
 for (var miles = 2; miles <= 6 ;  miles += 2) {
     
 
-        console.log("After" ,miles, "Miles chieved They Got",candies + 1,"Candy");
+        console.log("After" ,miles, "Miles Achieved They Got",candies + 1,"Candy");
     }
 
 // This will print they got 1 candy 3 times
 
 
+//////////////////////////////////////////////////////
 
+
+var speed = 5
+var candies = 0
+
+for (var miles = 2; miles <= 6 ;  miles += 2) {
+    var speed = 5.5
+    if(speed < 5.5){
+        console.log("After" ,miles, "Miles Achieved They Got",candies + 1,"Candy");
+
+
+    }
+
+
+    }
 
 
